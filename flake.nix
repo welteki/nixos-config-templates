@@ -1,5 +1,5 @@
 {
-  description = "Welteki's NixOS flake configuration templates and modules";
+  description = "Welteki's NixOS flake templates";
 
   outputs = { self }: {
     templates = {
