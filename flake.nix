@@ -3,12 +3,12 @@
 
   outputs = { self }: {
     templates = {
-      simpleHost = {
-        path = ./simple-host;
-        description = "Welteki's NixOS host configuration base";
+      minimalHost = {
+        path = ./minimal-host;
+        description = "Welteki's minimal NixOS host configuration";
       };
     };
 
-    defaultTemplate = self.templates.simpleHost;
+    defaultTemplate = self.templates.minimalHost;
   };
 }
