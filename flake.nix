@@ -5,10 +5,15 @@
     templates = {
       minimalHost = {
         path = ./minimal-host;
-        description = "Welteki's minimal NixOS host configuration";
+        description = "Welteki's minimal NixOS host configuration template";
+      };
+
+      defaultHost = {
+        path = ./default-host;
+        description = "Welteki's default NixOS host configuration template";
       };
     };
 
-    defaultTemplate = self.templates.minimalHost;
+    defaultTemplate = self.templates.defaultHost;
   };
 }
