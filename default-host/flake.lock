@@ -66,11 +66,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1622936166,
-        "narHash": "sha256-iW12xc2w7VAovUiwz+UJ+oEODgr976klAL/DEgeXH54=",
+        "lastModified": 1623748923,
+        "narHash": "sha256-gdBLaKE4i/L27qwQRnqmgdgD/AuiLiRNWZqagnXwpBY=",
         "owner": "welteki",
         "repo": "nix-config",
-        "rev": "56087c881037b25acffdf9924c71a806bfe33ea1",
+        "rev": "6439b84ea65b5374eeb833f8b66f9613795b7fda",
         "type": "github"
       },
       "original": {
