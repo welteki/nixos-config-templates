@@ -12,6 +12,11 @@
         path = ./default-host;
         description = "Welteki's default NixOS host configuration template";
       };
+
+      bare = {
+        path = ./bare;
+        description = "Bare configuration for welteki NixOS hosts";
+      };
     };
 
     defaultTemplate = self.templates.defaultHost;
