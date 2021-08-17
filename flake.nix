@@ -17,6 +17,11 @@
         path = ./bare;
         description = "Bare configuration for welteki NixOS hosts";
       };
+
+      bare = {
+        path = ./vmware;
+        description = "Bare configuration for welteki NixOS VM's";
+      };
     };
 
     defaultTemplate = self.templates.defaultHost;
