@@ -18,7 +18,7 @@
         description = "Bare configuration for welteki NixOS hosts";
       };
 
-      bare = {
+      vmware = {
         path = ./vmware;
         description = "Bare configuration for welteki NixOS VM's";
       };
