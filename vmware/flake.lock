@@ -75,11 +75,11 @@
         "utils": "utils"
       },
       "locked": {
-        "lastModified": 1628673075,
-        "narHash": "sha256-zmB6iX43ZvI4qoirASTaUKI7K6gLh352STxH5JAX3Nc=",
+        "lastModified": 1635635780,
+        "narHash": "sha256-Yjh70bwb4HNoUrljHGrs4eu874+K3Arl8VWBqowBcyY=",
         "owner": "welteki",
         "repo": "welteki.nix",
-        "rev": "8e9bccfc47ce720593d8982ce7396a45ae08aca9",
+        "rev": "572d50d8dc721c907529c95182da1606f1fe0f32",
         "type": "github"
       },
       "original": {
